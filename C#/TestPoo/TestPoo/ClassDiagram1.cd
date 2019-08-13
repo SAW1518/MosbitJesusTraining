@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="TestPoo.CAsociado">
+    <Position X="1.5" Y="1.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAIQAQAAAAAAAAAAAAAAAAAAAQAAAAAA=</HashCode>
+      <FileName>CAsociado.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TestPoo.CProyecto">
+    <Position X="5.75" Y="3.5" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AGABAAAgAQAEAIQAAAAAAAaAABAIAAEQAgAgCAAAAQA=</HashCode>
+      <FileName>CProyecto.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="TestPoo.Lider">
+    <Position X="1.5" Y="5.75" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAEAAEAAAAAAQAAECAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Lider.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="TestPoo.IDataRules">
+    <Position X="8.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAABAAAAEAAAAAAAAAAAA=</HashCode>
+      <FileName>IDataRules.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
